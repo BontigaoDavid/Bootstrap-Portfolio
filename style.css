@@ -1,0 +1,27 @@
+.navbar {
+    background-color:rgba(0, 0, 0, 0.685)  !important; 
+    padding: 0;
+    vertical-align: center;
+}
+
+.navbar-brand {
+    margin-left: 6.25%;
+    background-color: rgba(0, 0, 0, 0.062);
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white !important;
+    font-weight: 900;
+}
+
+.mainDiv {
+    width: 95%;
+    height: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgba(129, 129, 129, 0.418);
+}
+
+.portfolioImg {
+    align-self: 
+
+}
