@@ -1,27 +1,58 @@
 .navbar {
-    background-color:rgba(0, 0, 0, 0.685)  !important; 
+    background-color:rgba(27, 27, 27, 0.75) !important; 
     padding: 0;
     vertical-align: center;
+    border-bottom: 1px solid white;
 }
 
 .navbar-brand {
     margin-left: 6.25%;
-    background-color: rgba(0, 0, 0, 0.062);
+    background-color: rgba(27, 27, 27, 0.75);
     padding-left: 10px;
     padding-right: 10px;
     color: white !important;
     font-weight: 900;
 }
 
+.navbar-toggler {
+    border-left: 1px solid white !important;
+    border-top: 1px solid white !important;
+    border-right: 1px solid white !important;
+    border-bottom: 1px solid white !important;
+}
+
+.navbar-nav {
+    margin-left: 60%;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-item {
+    margin-left: 15px;
+}
+
 .mainDiv {
-    width: 95%;
-    height: 1000px;
+    width: 90%;
+    padding-top: 25px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 25px;
     margin: 0 auto;
-    margin-top: 50px;
-    background-color: rgba(129, 129, 129, 0.418);
+    margin-left: 5%;
+    margin-top: 75px;
+    background-color: rgba(27, 27, 27, 0.75);
+    color: white;
+    overflow: auto;
 }
 
-.portfolioImg {
-    align-self: 
+hr {
+    border-color:white;
+}
+#portfolioImg {
+   float: left;
+   padding-right: 3%;
 
 }
+
